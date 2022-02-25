@@ -6,7 +6,7 @@ from firebase_admin import credentials
 client = discord.Client()
 cred = credentials.Certificate()
 m = firebase_admin.initialize_app(config)
-fp = []
+fp = [] #NEWCOMMENT
 channel_list = {
   'jtph-del': 946210173695975427,
   'jtph-gnd': 946276433519595560,
