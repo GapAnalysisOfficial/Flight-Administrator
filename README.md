@@ -3,3 +3,5 @@ Flight Administrator BOT is used to manage flight plans and notify important dat
 
 ## Commands 
 This will be notified at the earliest when the bot is completed after the first phase of development.
+
+## Developed by Lazer Football Association (Adorable Trooper)
